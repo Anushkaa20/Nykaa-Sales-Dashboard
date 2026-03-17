@@ -60,4 +60,5 @@ The dataset includes the following tables:
 - All four sales channels and regions contribute roughly equally
 - Summer Sale drives the highest revenue among promotional events
 
- ## Screenshot
+ ## Screenshots 
+ https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20001920.png
