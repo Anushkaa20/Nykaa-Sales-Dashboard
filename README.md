@@ -61,7 +61,8 @@ The dataset includes the following tables:
 - Summer Sale drives the highest revenue among promotional events
 
  ## Screenshots 
- https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20001920.png
- https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20002000.png
-https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20002031.png
-https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20002057.png
+ ![Home](https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20001920.png)
+ ![Overview](https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20002000.png)
+ ![Product Analysis](https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20002031.png)
+ ![Customer Analysis]( https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20002057.png)
+ ![Discount & Profit Analysis]( https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20002128.png)
