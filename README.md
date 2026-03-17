@@ -63,3 +63,4 @@ The dataset includes the following tables:
  ## Screenshots 
  https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20001920.png
  https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20002000.png
+https://github.com/Anushkaa20/Nykaa-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20002031.png
